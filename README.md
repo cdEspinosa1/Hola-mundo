@@ -1,2 +1,2 @@
 # Hola-mundo
-Mi primer repositorio.
+Mi primer repositorio de prueba.
